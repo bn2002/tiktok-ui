@@ -17,6 +17,17 @@
     justify-content: space-between;
 }
 
+.search-result {
+    width: 361px;
+}
+
+.search-title {
+    padding: 5px 12px;
+    color: rgba(22, 24, 35, 0.5);
+    line-height: 2rem;
+    font-size: 1.4rem;
+}
+
 .search {
     width: 361px;
     height: var(--search-height);
